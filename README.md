@@ -1,0 +1,3 @@
+Welcome to the CSB280 course GitHub repository. 
+
+This repository is the source for all datasets and markdown materials produced for students of the course. This respository houses files for only CSB280 - particularly for the Fall 2026 offering. While students will normally use the <a href="https://r.datatools.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fuoft-csb-datasci%2F2026-09-CSB280&urlpath=rstudio%2F&branch=main">nbgitpuller repository link</a> to synchronize their files, students using their own desktop version of RStudio can download repository files weekly to code along with lecture.
